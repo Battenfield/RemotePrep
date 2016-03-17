@@ -1,0 +1,47 @@
+
+#footer_image {
+	float: right;
+	height: 8%;
+	width: 8%;
+	margin-right: 5%;
+}
+body {
+  background-color: #c8c5be
+  }
+footer {
+	background-color: #474028;
+	width: 100%;
+}
+
+.movie_img{
+	margin-bottom: 5px;
+}
+img {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.col-md-3{
+	height: 500px;
+	text-align: center;
+	border: 3px solid gray;
+	background: -webkit-radial-gradient(white, lightgray);
+}
+
+.category {
+	font-style: italic;
+	padding-bottom: 8px;
+}
+.name {
+	font-size: 1.5em;
+	margin-top: 8px;
+	margin-bottom: 5px;
+}
+.price {
+	padding-top: 5px;
+	font-weight: bold;
+}
+.hidden {
+	visibility: hidden;
+}
+#synopsis {
+	font-size: .8em;
+}
